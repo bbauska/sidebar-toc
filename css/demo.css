@@ -4,7 +4,6 @@
     font-family: 'Work Sans', sans-serif;
 *********************************************************/
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,500,600,700,800,900');
-
 html {
   box-sizing: border-box;
 }
@@ -54,7 +53,6 @@ h2 span {
 #float-right{
   float:right;    
 }
-
 /* ******************************************************
     Script Top
 *********************************************************/
@@ -92,7 +90,6 @@ h2 span {
   background:#000;
   color:#fff;
 }
-
 /* ******************************************************
     Script Header
 *********************************************************/
@@ -138,7 +135,6 @@ h2 span {
   opacity: 0.7;
   margin-top: 5px;
 }
-
 /* ******************************************************
     Live Demo
 *********************************************************/
@@ -200,7 +196,6 @@ h2 span {
     width: 83.33%;
   }
 }
-
 @media only screen and (min-width:240px) and (max-width: 768px){
   .ScriptTop h1, .ScriptTop ul {
     text-align: center;
@@ -224,4 +219,3 @@ h2 span {
     float:none;    
   }
 }
-
